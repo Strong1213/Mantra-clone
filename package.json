@@ -1,0 +1,24 @@
+{
+  "name": "9-myntra-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strong1213/Mantra-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Strong1213/Mantra-clone/issues"
+  },
+  "homepage": "https://github.com/Strong1213/Mantra-clone#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
